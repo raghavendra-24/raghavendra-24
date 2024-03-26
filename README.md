@@ -22,7 +22,7 @@ I'm very much fascinated about this technology.\
 
 
 ### Spotify Playlist
-[1[Spotify](https://open.spotify.com/playlist/6POjtCw1z9b5XaC108CZCQ?si=hySnOaXlRjys7BlX_TXIMw )]
+[![Spotify](https://open.spotify.com/playlist/6POjtCw1z9b5XaC108CZCQ?si=hySnOaXlRjys7BlX_TXIMw )]
 
 ## Connect with me. :smiley:
 
