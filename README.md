@@ -28,7 +28,7 @@ I'm very much fascinated about this technology.\
 
 <p>
 <a href="https://github.com/raghavendra-24"><img src="https://img.shields.io/badge/-Emmadi_Divya_Srujana-black?logo=github&style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/raghavendra-raju-palagani-889758248/"><img src="https://img.shdivyasrujana?igshid=esstkghnur2dields.io/badge/-Emmadi_Divya_Srujana-blue?logo=linkedin&style=flat-square"></a>
+<a href="https://www.linkedin.com/in/raghavendra-raju-palagani-889758248/"><img src="https://img.shdivyasrujana?igshid=esstkghnur2dields.io/badge/-Emmadi_Divya_Srujana-blue?logo=linkedin&style=flat-square"></a>
 <a href="https://www.instagram.com/raghavendra_24_/"><img src="https://img.shields.io/badge/-Divya_Srujana-pink?logo=instagram&style=flat-square"/></a>
 <a href="mailto:raghavenrapalagani671@gmail.com"><img src="https://img.shields.io/badge/-edsrujana1@gmail.com-black?logo=gmail&style=flat-square"/></a>
 <a href="https://x.com/palagani_raju"><img src="https://img.shields.io/badge/-divya__emmadi-blue?logo=twitter&style=flat-square"/></a>
