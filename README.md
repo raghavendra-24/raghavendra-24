@@ -28,7 +28,6 @@ I'm very much fascinated about this technology.\
 
 <p>
 <a href="https://github.com/raghavendra-24"><img src="https://img.shields.io/badge/-raghavendra_24_-black?logo=github&style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/raghavendra-raju-palagani-889758248/"><img src="https://img.shdivyasrujana?igshid=esstkghnur2dields.io/badge/-raghavendra-raju-palagani?logo=linkedin&style=flat-square"></a>
 <a href="https://www.instagram.com/raghavendra_24_/"><img src="https://img.shields.io/badge/-Raghavendra_24_-pink?logo=instagram&style=flat-square"/></a>
 <a href="mailto:raghavenrapalagani671@gmail.com"><img src="https://img.shields.io/badge/-raghavendrapalagani671@gmail.com-black?logo=gmail&style=flat-square"/></a>
 <a href="https://x.com/palagani_raju"><img src="https://img.shields.io/badge/-palagani_raju-blue?logo=twitter&style=flat-square"/></a>
